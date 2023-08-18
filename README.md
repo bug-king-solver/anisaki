@@ -11,7 +11,7 @@ They are great and useful website that provides a lot of information,
 but i want a simple version, so i created this project.
 The name anisaki comes from the words "anime" and "saiki"(it is a javanese word for "now").
 
-Try it now: https://anisaki.bayudc.fun
+Try it now: https://anisaki-sooty.vercel.app/
 
 ## 🖥️ Tech Stacks
 
